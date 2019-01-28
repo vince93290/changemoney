@@ -1,0 +1,30 @@
+main {
+    width:70%;
+    margin:10em auto;
+    padding:1em; 
+    border: 2px black solid;
+    justify-content: space-around;
+
+}
+
+.convertisseur {
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 2em;
+    margin-right: 10px;
+}
+
+.convertisseur p {
+    margin: 0;
+    font-size: 1.5em;
+}
+
+input {
+    width: 6em;
+}
+
+h2 {
+    text-align: center;
+}
